@@ -1,9 +1,8 @@
 # Repo of tutorial notebooks for EEG-BCI
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d641934f-f403-4f4e-be79-8c0baa59d397" height="375" />
+  <img src="https://github.com/user-attachments/assets/8cc27225-cdbc-4adb-95bd-117e22f02fd7" height="375" />
 </p>
-
 
 
 A common question I encounter online, is "how do I get started with BCI?" 
