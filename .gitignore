@@ -1,2 +1,6 @@
 **/wip/
 **/*wip*/
+venv/
+.vscode/
+__pycache__/
+*.pyc
